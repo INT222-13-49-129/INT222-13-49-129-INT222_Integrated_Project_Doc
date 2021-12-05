@@ -1,0 +1,190 @@
+Folder PATH listing for volume New Volume
+Volume serial number is AA3F-2706
+E:.
+|   .dockerignore
+|   .editorconfig
+|   .eslintcache
+|   .eslintrc.js
+|   .gitignore
+|   .prettierrc
+|   config.js
+|   default.conf
+|   docker-compose.yml
+|   Dockerfile
+|   Jenkinsfile
+|   nuxt.config.js
+|   package-lock.json
+|   package.json
+|   README.md
+|   tailwind.config.js
+|   
++---assets
+|   +---fonts
+|   |   +---EkkamaiNew-3weights
+|   |   |       EkkamaiNew-Bold.ttf
+|   |   |       EkkamaiNew-Readme.txt
+|   |   |       EkkamaiNew-Regular.ttf
+|   |   |       EkkamaiNew-Thin.ttf
+|   |   |       
+|   |   \---MOON
+|   |       |   Moon2.0-Bold.otf
+|   |       |   Moon2.0-Light.otf
+|   |       |   Moon2.0-Regular.otf
+|   |       |   Personal Use Licence.pdf
+|   |       |   
+|   |       \---Legacy MOON Files
+|   |               License.txt
+|   |               Moon Bold.otf
+|   |               Moon Light.otf
+|   |               
+|   \---img
+|       |   alert.svg
+|       |   barbell.svg
+|       |   bg.png
+|       |   bg2.svg
+|       |   bgfoodmenu.svg
+|       |   bgprofile.svg
+|       |   bgproimg.svg
+|       |   cat.png
+|       |   cat.svg
+|       |   chooseimg.svg
+|       |   delete.svg
+|       |   food-index.png
+|       |   loading.svg
+|       |   logo.svg
+|       |   mail.svg
+|       |   preload.svg
+|       |   userimg.svg
+|       |   userimg2.svg
+|       |   
+|       +---ingredients
+|       |       Carb.svg
+|       |       Condiment.svg
+|       |       Fruit.svg
+|       |       Meat.svg
+|       |       Oil.svg
+|       |       Vegetable.svg
+|       |       
+|       +---meal
+|       |       meal1.svg
+|       |       meal2.svg
+|       |       meal3.svg
+|       |       meal4.svg
+|       |       
+|       +---mealtime
+|       |       Breakfast.svg
+|       |       Dinner.svg
+|       |       Lightmeal.svg
+|       |       Lunch.svg
+|       |       
+|       \---member
+|           |   chompoo.jpg
+|           |   kamin.png
+|           |   new.png
+|           |   Untitled_Artwork 9.png
+|           |   
+|           \---bg
+|                   1.svg
+|                   2.svg
+|                   3.svg
+|                   bg1.svg
+|                   bg2.svg
+|                   bg3.svg
+|                   bg4.svg
+|                   
++---components
+|   |   Calendar.vue
+|   |   DateCalendar.vue
+|   |   DeleteAccount.vue
+|   |   EditAccount.vue
+|   |   EditEmail.vue
+|   |   EditPassword.vue
+|   |   FoodmenuImg.vue
+|   |   FoodmenuItem.vue
+|   |   IngredientsItem.vue
+|   |   IngredientstypeSVG.vue
+|   |   Item.vue
+|   |   LineChart.js
+|   |   LineChart.vue
+|   |   MealCard.vue
+|   |   MealItem.vue
+|   |   MealTime.vue
+|   |   MealTimeItem.vue
+|   |   Modal.vue
+|   |   OTP.vue
+|   |   OtpInput.vue
+|   |   PageNumber.vue
+|   |   RequestItem.vue
+|   |   SendRequest.vue
+|   |   Sidebar.vue
+|   |   TheHeader.vue
+|   |   UserImg.vue
+|   |   
+|   \---Admin
+|           AdminAddFoodtype.vue
+|           AdminAddIngredients.vue
+|           AdminFoodmenu.vue
+|           AdminFoodmenuImg.vue
+|           AdminFoodmenuItem.vue
+|           AdminFoodtype.vue
+|           AdminIngredients.vue
+|           AdminRequest.vue
+|           AdminSidebar.vue
+|           AdminUser.vue
+|           
++---layouts
+|       admin.vue
+|       default.vue
+|       error.vue
+|       global.css
+|       signinbg.vue
+|       user.vue
+|       
++---middleware
+|       admin.js
+|       guest.js
+|       
++---nginx
+|       default.conf
+|       
++---pages
+|   |   aboutus.vue
+|   |   foodmenu.vue
+|   |   index.vue
+|   |   newmenu.vue
+|   |   signup.vue
+|   |   
+|   +---admin
+|   |       accounts.vue
+|   |       category.vue
+|   |       index.vue
+|   |       ingradients.vue
+|   |       menu.vue
+|   |       request.vue
+|   |       
+|   +---profile
+|   |   |   dailymeal.vue
+|   |   |   index.vue
+|   |   |   
+|   |   \---setting
+|   |           account.vue
+|   |           index.vue
+|   |           
+|   \---signin
+|           forgetpass.vue
+|           index.vue
+|           
++---static
+|       logo.svg
+|       
++---store
+|       index.js
+|       README.md
+|       
+\---utils
+        adminApi.js
+        api.js
+        authApi.js
+        generalApi.js
+        userApi.js
+        
